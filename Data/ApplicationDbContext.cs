@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc;
 using todo_csharp.Models;
-using todo_csharp.Controllers;
 
 namespace todo_csharp.Data
 {
